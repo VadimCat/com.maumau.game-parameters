@@ -1,0 +1,7 @@
+{
+  "name": "MauMau.GameParameters.Editor",
+  "rootNamespace": "MauMau.GameParameters",
+  "includePlatforms": [
+    "Editor"
+  ]
+}

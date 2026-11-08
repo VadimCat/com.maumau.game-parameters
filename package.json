@@ -1,0 +1,10 @@
+{
+  "name": "com.maumau.game-parameters",
+  "version": "1.0.0",
+  "displayName": "MauMau Game Parameters",
+  "description": "Editor-only serialized parameter tables and invariant CSV export for game adapters.",
+  "unity": "2022.3",
+  "author": {
+    "name": "MauMau"
+  }
+}
